@@ -1,0 +1,682 @@
+would	MD	will	checked:p
+could	MD	can	checked:p
+these	DT	this	checked:p
+-	:	-	checked:p
+people	NNS	people	checked:p
+better	JJR	well	checked:c
+&	CC	and	checked:p
+hath	VBP	hath	:p ŒÃŒê‚È‚Ì‚Åc‚·
+en	IN	en	checked:p
+Captain	NNP	Captain	:p ŒÅ—L–¼Œ‚È‚Ì‚©”»’f‚Å‚«‚È‚¢B
+States	NNPS	States	:p ŒÅ—L–¼Œ‚È‚Ì‚©”»’f‚Å‚«‚È‚¢
+de	IN	de	:p ‘O’uŒ‚¾‚ªAc‚µ‚Ä‚¨‚­‚©”»’f‚Å‚«‚È‚¢B
+honour	NN	honor	:ci‰pj
+Court	NNP	Court	:p ŒÅ—L–¼Œ‚©”»’f‚Å‚«‚È‚¢
+Monsieur	NNP	Monsieur	:p ŒÅ—L–¼Œ‚Æ‚µ‚Ä‚¢‚¢‚©”»’f‚Å‚«‚È‚¢
+longer	RB	longer	checked:p
+clothes	NNS	clothes	checked:(•¡”ˆµ‚¢)
+Holy	NNP	Holy	:p ŒÅ—L–¼Œ‚©”»’f‚Å‚«‚È‚¢
+nearer	IN	near	checked:p
+Carnegie-Mellon	NNP	Carnegie-Mellon	:p ŒÅ—L–¼Œ‚©”»’f‚Å‚«‚È‚¢
+Parliament	NNP	Parliament	:p ŒÅ—L–¼Œ‚ ‚è‚©‚Æv‚¤‚ñ‚Å‚·‚ªA©M‚È‚¢‚Ì‚ÅB
+favour	NN	favor	:ci‰pj
+colour	NN	color	:c@i‰pj
+honourable	JJ	honorable	:ci‰pj
+Governor	NNP	Governor	:p ŒÅ—L–¼Œ‚Æ‚µ‚Ä‚¢‚¢‚©”»’f‚Å‚«‚È‚¢
+centre	NN	center	:c i‰pj
+La	NNP	lanthanum	:c(—ªŒê)
+O	NN	O	:p NN‚È‚ç‚ ‚è‚¦‚é‚ªAc‚µ‚Ä‚¢‚¢‚à‚Ì‚©B
+defence	NN	defense	:c i‰pj
+colours	NNS	colour	:c(‰p)
+labour	NN	labor	:c(‰p)
+grey	JJ	gray	:c(‰p)
+favourite	JJ	favorite	:c(‰p)
+favourable	JJ	favorable	:c(‰p)
+offence	NN	offense	:c(‰p)
+Son	NNP	Son	checked:p
+neighbourhood	NN	neighborhood	:c(‰p)
+sooner	RB	sooner	checked:p
+la	NNP	lanthanum	:c(—ªŒê)
+sailors	NNS	sailors	checked:sailor
+quitted	VBN	quit	:c(‰p)
+x	SYM	x	checked:p
+marvellous	JJ	marvelous	:c(‰p)
+humour	NN	humor	:c(‰p)
+IL	NNP	Ilinois	:c(—ªŒê)
+She	NN	She	checked:p
+;	:	;	checked:p
+grey	NN	gray	:c(‰p)
+labours	NNS	labor	:c(‰p)
+endeavoured	VBN	endeavor	:c(‰p)
+pretence	NN	pretense	:c(‰p)
+recognised	VBD	recognize	:c(‰p)
+coloured	VBN	colour	:c(‰p)
+A	NN	A	checked:p
+Christians	NNS	Christians	checked:p: NNPS
+favourite	NN	favorite	:c(‰p)
+Lizzie	NNP	Lizzie	:c(=Lizzy)
+honours	NNS	honor	:c(‰p)
+behaviour	NN	behaivior	:c(‰p)
+practised	VBN	practice	:c(‰p)
+Liberty	NNP	Liberty	checked:p
+armour	NN	armor	:c (‰pj
+recognised	VBN	recognize	:c(‰p)
+harbour	NN	harbor	:c(‰p)
+honour	JJ	honor	:c(‰p)
+nearest	IN	near	checked:p
+Jeanne	NNP	Jeanne	:c(=Jeannie)
+VII	NNP	VII	checked:p
+axe	NN	axe	:c (=ax)
+trout	NNS	trout	checked:p: trouts
+recognise	VB	recognize	:c(‰p)
+mould	NN	mold	:c(‰p)
+neighbouring	VBG	neighboring	:c(‰p)
+rumour	NN	rumor	:c(‰p)
+endeavoured	VBD	endeavor	:c(‰p)
+odour	NN	odor	:c(‰p)
+clamour	NN	clamor	:c(‰p)
+:	:	:	checked:p
+remarked	VBN	remarked	checked:remark
+neighbour	NN	neighbor	:c(‰p)
+auld	JJ	auld	:c (=old)
+le	DT	le	checked:p
+honour	VB	honor	:c(‰p)
+realise	VB	realize	:c(‰p)
+neighbouring	JJ	neighboring	:c(‰p)
+endeavour	VB	endeavor	:c(‰p)
+endeavouring	VBG	endeavor	:c(‰p)
+labour	JJ	labor	:c(‰p)
+Di	NNP	didymium	checked:p
+practise	VB	practice	:c(‰p)
+connexion	NN	connection	:c(‰p)
+remnants	NNS	remnants	checked:remnant
+Honourable	JJ	honorable	:c(‰p)
+favoured	VBN	favor	:c(‰p)
+endeavour	NN	endeavor	:c(‰p)
+offences	NNS	offense	:c(‰p)
+labouring	VBG	labor	:c(‰p)
+laboured	VBD	labor	:c(‰p)
+quarrelled	VBN	quarrel	:c(‰p)
+judgement	NN	judgment	:c(‰p)
+Title	NNP	Title	checked:e
+favour	VB	favor	:c(‰p)
+**	SYM	**	checked:p
+realised	VBD	realize	:c(‰p)
+duration	NN	duration	checke
+whichever	WDT	whichever	checked:p
+grumbled	VBD	grumble	checked:mustn't grumble!!!;)
+lustre	NN	luster	:c(‰p)
+knowed	VBD	know	:c(”ñ•W€)
+endeavours	NNS	endeavor	:c(‰p)
+colour	JJ	color	:c(‰p)
+Action	NNP	Action	:c •Ä­•{‚Ìƒ{ƒ‰ƒ“ƒeƒBƒA‹@ŠÖ
+parlour	NN	parlor	:c(‰p)
+ardour	NN	ardor	:c (‰pj
+Malvina	NNP	Malvina	:c(=Malvine)
+meagre	JJ	meager	:c(‰p)
+catalogue	NN	catalog	:c(‰p)
+No	RB	No	checked:p
+na	TO	na	checked:p: gonna
+3	LS	3	checked:p
+counsellor	NN	counsellor	:c(‰p)
+organisation	NN	organization	:c(‰p)
+favoured	VBD	favor	:c(‰p)
+ploughed	VBN	plow	:c(‰p)
+Saviour	NNP	Savior	:c(‰p)
+demeanour	NN	demeanor	:c(‰p)
+Summer	NNPS	Summer	checked:p
+labour	VB	labor	:c(‰p)
+licence	NN	license	:c(‰p)
+conical	JJ	conical	:c(=conic)
+Madeline	NNP	Madeline	:c(=Madeleine)
+honoured	VBD	honor	:c(‰p)
+favoured	JJ	favor	:c(‰p)
+neighbour	JJ	neighbor	:c(‰p)
+practising	VBG	practice	:c(‰p)
+modelled	VBN	model	:c(‰p)
+counsellors	NNS	counsellor	:c(‰p)
+ayre	NN	ayre	:c (=air)
+e	SYM	e	checked:p
+labourer	NN	laborer	:c(‰p)
+la	DT	la	checked:p
+Los	NNP	Los Angeles	:c(—ªŒê)
+moulded	VBN	mold	:c(‰p)
+practised	VBD	practice	:c(‰p)
+flavour	NN	flavor	:c(‰p)
+centres	NNS	centre	:c(‰p)
+favours	NNS	favor	:c(‰p)
+reddened	VB	redden	checked:p: VBD, VBN
+coloured	VBD	colour	:c(‰p)
+)	)	)	checked:p
+marvellously	RB	marvelously	:c(‰p)
+amends	NNS	amends	:c (’P”E•¡”“¯‚¶j
+manoeuvres	NNS	maneuver	:c(‰p)
+Din	NNP	DIN	:c(—ªŒê)
+della	NNP	della	:c masayu-a ƒCƒ^ƒŠƒAŒn‚Ì–¼‘O
+rigour	NN	rigor	:c(‰p)
+plough	NN	plow	:c(‰p)
+labourers	NNS	laborer	:c(‰p)
+marvelled	VBD	marvel	:c(‰p)
+laboured	VBN	labor	:c(‰p)
+Commonwealth	NNP	Commonwealth	checked:c
+savour	NN	savor	:c(‰p)
+equalled	VBN	equaled	:c(‰p)
+cigarettes	NNS	cigarette	checked:c: refer to cigarette
+southwest	JJS	southwest	checked:p
+levelled	VBN	level	:c(‰p)
+freed	VBD	freed	checked:free
+favourably	RB	favorably	:c(‰p)
+draughts	NNS	draft	:c(‰p)
+s	VBZ	s	checked:p
+cheque	NN	check	:c(‰p)
+recognising	VBG	recognize	:c(‰p)
+honourably	RB	honorably	:c(‰p)
+alms	NNS	alms	:ci’P”E•¡”“¯‚¶j
+realised	VBN	realize	:c(‰p)
+deed	VBN	deed	:c masayu-a
+candour	NN	candor	:c(‰p)
+Hippolyte	NNP	Hippolyte	:c(=Hippolyta)
+sabres	NNS	saber	:c(‰p)
+louis	NNS	louis	checked:p
+world-wide	JJ	world-wide	checked:d: worldwide is used world-wide.
+odours	NNS	odor	:c(‰p)
+practise	NN	practice	:c(‰p)
+gon	VBG	gon	checked:p
+cabal	NN	cabal	:c(’P”Œ`‚Å•¡”ˆµ‚¢‚à‚ ‚èj
+practised	JJ	practice	:c(‰p)
+mouldering	VBG	molder	:c(‰p)
+scissors	NNS	scissors	:c(•¡”E’P”ˆµ‚¢)
+practise	VBP	practice	:c(‰p)
+fibre	NN	fiber	:c(‰p)
+fervour	NN	fervor	:c(‰p)
+enamoured	VBN	enamor	:c(‰p)
+criticise	VB	criticize	:c(‰p)
+counselled	VBD	counsel	:c(‰p)
+centred	VBN	centre	:c(‰p)
+quarrelling	VBG	quarrel	:c(‰p)
+manoeuvre	NN	maneuver	:c(‰p)
+jewelled	VBN	jewel	:c(‰p)
+fibres	NNS	fibre	:c(‰p)
+Sometime	RB	Sometime	checked:p
+Labour	NNP	Labor	:c(‰p)
+ploughing	VBG	plow	:c(‰p)
+humours	NNS	humor	:c(‰p)
+Natalia	NNP	Natalia	:c(=Natalie)
+organised	VBN	organize	:c(‰p)
+humour	VB	humor	:c(‰p)
+authorised	VBN	authorise	:c (‰pj
+moustaches	NNS	mustache	:c(‰p)
+f	SYM	f	checked:p
+y'all	PRP	y'all	checked:p
+recognise	VBP	recognize	:c(‰p)
+manoeuvring	VBG	maneuver	:c(‰p)
+favourites	NNS	favorite	:c(‰p)
+deed	VBD	deed	:c masayu-a
+Called	VBN	Called	checked:call
+honour	VBP	honor	:c(‰p)
+apologise	VB	apologise	:c (–”‚Íapologize)
+parlour	JJ	parlor	:c(‰p)
+billiards	NNS	billiards	:c(=’P”ˆµ‚¢j
+arbour	NN	arbour	:c (–”‚Íarbor)
+}	)	}	checked:p
+revelled	VBD	revel	:c(‰p)
+dishonourable	JJ	dishonorable	:c(‰p)
+Eugen	NNP	Eugen	:c(Eugene‚ÌƒhƒCƒcŒn‚Ì–¼)
+sepulchre	NN	sepulcher	:c(‰p)
+realising	VBG	realize	:c(‰p)
+quitted	VBD	quit	:c(‰p)
+councillors	NNS	councilor	:c(‰p)
+Basle	NNP	Basle	:c(=Basel)
+quarrelled	VBD	quarrel	:c(‰p)
+marvelled	VBN	marvel	:c(‰p)
+levelled	VBD	level	:c(‰p)
+clamouring	VBG	clamour	:c(‰p)
+aeroplane	NN	airplane	:c@i‰pj
+mouldy	JJ	moldy	:c(‰p)
+dishevelled	JJ	disheveled	:c(‰p)
+Colours	NNS	colour	:c(‰p)
+Anatole	NNP	Anatole	:c (–”‚ÍAnatol,Annatol)
+soonest	JJS	soonest	checked:soon
+reconnoitre	VB	reconnoiter	:c(‰p)
+harbours	NNS	harbor	:c(‰p)
+habeas	NNS	habeas	checked:p
+equalled	VBD	equaled	:c(‰p)
+d	SYM	d	checked:p
+Alphonse	NNP	Alphonse	:c (–”‚ÍAlphonso)
+Agricultural	NNP	Agricultural	checked:e
+elliptic	JJ	elliptic	:c(=elliptical)
+dishonour	NN	dishonor	:c(‰p)
+anthropomorphous	JJ	anthropomorphous	:c (=anthropomorphic)
+Europeans	NNS	Europeans	checked:p: NNP
+Bessy	NNP	Bessy	:c(=Bessie)
+ALWAYS	NNP	ALWAYS	:d (‰º‚É‚ÍNNP‚Åchecked‚É‚È‚Á‚Ä‚é‚ªj
+primaeval	JJ	primaeval	:c(=primaevel)
+labouring	JJ	laboring	:c(‰p)
+labelled	VBN	label	:c(‰p)
+imposes	VBZ	imposes	checked:impose
+NE	NNP	neon.	:c(‰»Šw‹L†)
+In	NNP	indium	:c(—ªŒê)
+Defence	NN	defense	:c(‰p)
+Calvinists	NNPS	Calvinists	:c checked by masayu-a
+savoury	JJ	savor	:c(‰p)
+revelled	VBN	revel	:c(‰p)
+instalment	NN	instalment	:c(=installment)
+favouring	VBG	favor	:c(‰p)
+colour	VB	color	:c(‰p)
+rumoured	VBN	rumor	:c(‰p)
+remedied	VBN	remedied	checked:remedy
+plough	VB	plow	:c(‰p)
+metres	NNS	meter	:c(‰p)
+harbour	VB	harbor	:c(‰p)
+endeavour	VBP	endeavor	:c(‰p)
+backwoods	NNS	backwoods	:c (’P”A•¡”“¯‚¶j
+apprize	VB	apprize	:c (–”‚Íapprise)
+analyse	VB	analyse	:ciå‚É‰pji–”‚Íanalyze)
+No	UH	No	checked:p
+ploughs	NNS	plow	:c(‰p)
+moult	NN	molt	:c(‰p)
+labour	VBP	labor	:c(‰p)
+arithmetical	JJ	arithmetical	:c (=arithmetic)
+manoeuvre	VB	maneuver	:c(‰p)
+labelled	VBD	label	:c(‰p)
+connexions	NNS	connexion	:c(‰p)
+I	CD	one	checked:p
+ploughed	VBD	plow	:c(‰p)
+organise	VB	organize	:c(‰p)
+oligarchical	JJ	oligarchical	:c(=oligarchic)
+il	NNP	illinium,Ilyushin	:c(—ªŒê)
+dependants	NNS	dependent	:c(‰p)
+counselled	VBN	counsel	:c(‰p)
+buttoning	VBG	buttoning	:c checked by masayu-a
+Gertie	NNP	Gertie	:c(=Gart)
+practises	NNS	practice	:c(‰p)
+marvelling	VBG	marvel	:c(‰p)
+jewellery	NN	jewelry	:c(‰p)
+bourgeois	NNS	bourgeois	:c(’P•¡“¯Œ`j
+Honours	NNS	honor	:c(‰p)
+uncovering	VBG	uncovering	checked:uncover
+satiric	JJ	satiric	:c(=satirical)
+realisation	NN	realization	:c(‰p)
+preoccupied	JJ	preoccupied	checke:cd:
+practises	VBZ	practice	:c(‰p)
+paralysed	VBN	paralyze	:c(‰p)
+mould	VB	mold	:c(‰p)
+levelling	VBG	level	:c(‰p)
+Hela	NNP	Hela	:c(=Hel)
+Emilie	NNP	Emilie	:c(=Emily)
+Cheri	NNP	Cheri	:c(=Cherie)
+Chaldaeans	NNPS	Chaldaean	:c(=Chaldeans)
+rivalled	VBD	rival	:c(‰p)
+reconnoitring	VBG	reconnoiter	:c(‰p)
+ploughman	NN	plowman	:c(‰p)
+pencilled	JJ	pencil	:c(‰p)
+parte	NN	parte	checked:p part?
+omelette	NN	omelette	:c(=omelet)
+moulded	VBD	mold	:c(‰p)
+metre	NN	meter	:c(‰p)
+marshalling	VBG	marshal	:c(‰p)
+baptised	VBN	baptise	:c (‰pj
+Ivanovitch	NNP	Ivanovitch	:c(=Ivanovich)
+rudimental	JJ	rudimental	:c(=rudimentry)
+reflexion	NN	reflection	:c(‰p)
+recognises	VBZ	recognize	:c(‰p)
+pyjamas	NNS	pajamas	:c(‰p)
+litle	JJ	litle	checked:p: little?
+hives	NNS	hives	:c(•¡”‚Ì‚İ)
+harbouring	VBG	harbouring	:c(‰p)
+ez	JJ	EZ	:c(easy‚Ì—ªŒê)
+dishonour	VB	dishonor	:c(‰p)
+Singer	NNP	Singer	checked:p
+Juda	NNP	Juda	:c(=Judah)
+Amidst	IN	amidst	:c (–”‚Íamid)
+sepulchres	NNS	sepulcher	:c(‰p)
+remodelled	VBN	remodel	:c(‰p)
+patronised	VBN	patronize	:c(‰p)
+organising	VBG	organize	:c(‰p)
+onwards	RB	onwards	:c(=onward)
+endeavours	VBZ	endeavor	:c(‰p)
+dishonoured	VBN	dishonor	:c(‰p)
+Macedon	NNP	Macedon	:c(=Macedonia)
+Ha	NNP	hahnium	:c(—ªŒê)
+Dostoyevsky	NNP	Dostoyevsky	:c(=Dostoevsky)
+savour	VB	savor	:c(‰p)
+saviour	NN	savior	:c(‰p)
+r	NN	r	checked:p
+honours	VBZ	honor	:c(‰p)
+guarantees	NNS	guarantee	checkd:
+dishonoured	VBD	dishonor	:c(‰p)
+dishevelled	VBN	dishevel	:c(‰p)
+colour	VBP	color	:c(‰p)
+chiselled	JJ	chiseled	:c(‰p)
+Isidore	NNP	Isidore	:c(=Isidor)
+Betsey	NNP	Betsey	:c(=Betsy)
+Annals	NNS	annal	:c (annals‚Ì‹t¬j
+revellers	NNS	reveler	:c(‰p)
+g	SYM	g	checked:p
+freezes	VBZ	freezes	checked:freeze
+discoloured	VBN	discolor	:c(‰p)
+clamours	NNS	clamour	:c(‰p)
+cancelled	VBD	canceled	:c(‰pj
+banns	NNS	banns	:c (•¡”ˆµ‚¢j
+asse	NN	asse	:c (=Cape fox)
+amuck	NN	amuck	:c(–”‚Íamok)
+Malabar	NNP	Malabar	:c(=Malabar Coast)
+Leadenhall	NNP	Leadenhall	:c(=Leadenhall Market)
+Katharine	NNP	Katharine	:c(=Katherine)
+Cortez	NNP	Cortez	:c(=Cortes)
+repugnancy	NN	repugnancy	:c(=repugnance)
+organised	VBD	organize	:c(‰p)
+measles	NNS	measles	:c(’PE•¡”ˆµ‚¢)
+laboured	JJ	labored	:c(‰p)
+humouring	VBG	humor	:c(‰p)
+handicapped	NNS	handicap	checked:p
+favour	VBP	favor	:c(‰p)
+fantastical	JJ	fantastical	:c(=fantastic)
+closer	RB	closer	checked:p: close
+centred	VBD	centre	:c(‰pj
+authorised	VBD	authorise	:c (‰pj
+atween	IN	atween	:c (=between)
+Headquarters	NNS	Headquarters	:c(’PE•¡ˆµ‚¢)
+Et	NNP	Et	:c(ethyl‚Ì—ªŒê)
+Athene	NNP	Athene	:c (–”‚Íathena)
+Agents	NNPS	Agents	checked:e
+{	(	{	checked:p
+remanded	VBD	remanded	checked:remand
+realise	VBP	realize	:c(‰p)
+modelled	VBD	model	:c(‰p)
+jewelled	VBD	jewel	:c(‰p)
+henceforward	RB	henceforward	:c(=henceforth)
+flavoured	VBN	flavor	:c(‰p)
+atheistical	JJ	atheistical	:c (–”‚Íatheistic)
+Hebrides	NNPS	Hebrides	:c(•¡”ˆµ‚¢)
+Dionysos	NNP	Dionysos	:c(=Dionysus)
+Boys	NNS	boy	checked
+rivalling	VBG	rival	:c(‰p)
+revelling	VBG	revel	:c(‰p)
+pins	VBZ	pins	checked:pin
+moulds	NNS	mold	:c(‰p)
+moulding	VBG	mold	:c(‰p)
+marshalled	VBN	marshal	:c(‰p)
+labours	VBZ	labor	:c(‰p)
+favours	VBZ	favor	:c(‰p)
+darkey	NN	darkey	:c(=darky)
+centre	VB	center	:c(‰p)
+burthens	NNS	burthens	checked by masayu-a
+authorising	VBG	authorise	:c (‰pj
+Catalina	NNP	Catalina	:c(=Catalina Island)
+savouring	VBG	savor	:c(‰p)
+s	PRP	s	checked:p
+rivalled	VBN	rival	:c(‰p)
+paralysed	VBD	paralyze	:c(‰p)
+pajamas	NNS	pajamas	:c(•¡”ˆµ‚¢)
+nonplussed	VBN	nonplus	:c(‰p)
+neutralise	VB	neutralize	:c(‰p)
+moulting	VBG	molt	:c(‰p)
+lazarette	NN	lazarette	:c(=lazaretto)
+knowed	VBN	know	:c(”ñ•W€)
+kilometres	NNS	kilometer	:c(‰p)
+jeweller	NN	jeweler	:c(‰p)
+grovelling	JJ	groveling	:c(‰p)
+enamoured	JJ	enamored	:c(‰p)
+emphasise	VB	emphasize	:c(‰p)
+dismission	NN	dismission	:c(=dismissal)
+counselling	VBG	counsel	:c(‰p)
+clamoured	VBD	clamour	:c(‰p)
+claes	NNS	claes	:c(•¡”ˆµ‚¢j
+capercailzie	NN	capercailzie	:c(=capercaillie)
+awaked	VBD	awake	:c (–”‚Íawoke)
+authorised	JJ	authorized	:c (‰pj
+Jeanie	NNP	Jeanie	:c(=Jeannie)
+Eleonora	NNP	Eleonora	:c(=Elenore)
+savoured	VBN	savor	:c(‰p)
+rigours	NNS	rigor	:c(‰p)
+problematical	JJ	problematical	:c(=problematic)
+neighbourly	JJ	neighborly	:c(‰p)
+mouldy	NN	moldy	:c(‰p)
+merchandize	VB	merchandize	:c(=merchandise)
+marshalled	VBD	marshal	:c(‰p)
+manoeuvred	VBD	maneuver	:c(‰p)
+honouring	VBG	honor	:c(‰p)
+hieroglyphical	JJ	hieroglyphical	:c(=hieroglyphic)
+heartstrings	NNS	heartstrings	:c(•¡”ˆµ‚¢)
+grovelled	VBD	grovel	:c(‰p)
+griffin	NN	griffin	:c(=griff)
+draughty	JJ	drafty	:c(‰p)
+disfavour	NN	disfavor	:c(‰p)
+counselling	JJ	counseling	:c(‰p)
+colours	VBZ	colour	:c(‰p)
+chiselled	VBN	chiseled	:c(‰p)
+axe	VB	axe	:c (=ax)
+Rhadamanthus	NNP	Rhadamanthus	:c(=Rhadamanthys)
+Judgement	NN	judgment	:c(‰p)
+sandalled	JJ	sandaled	:c(‰p)
+quartette	NN	quartet	:c(‰p)
+ploughmen	NNS	plowman	:c(‰p)
+noways	RB	noways	:c(=noway)
+labyrinthic	JJ	labyrinthic	:c(=labyrinthine)
+growen	VBN	grow	:c(”ñ•W€)
+grovelling	VBG	grovel	:c(‰p)
+focussed	VBN	focus	:c(‰p)
+expedience	NN	expedience	:c(=expediency)
+epaulettes	NNS	epaulette	:c(=epaulet)
+enamelled	VBN	enamel	:c(‰p)
+diggings	NNS	diggings	:c(’P”E•¡”ˆµ‚¢)
+cruellest	JJS	cruelest	:c(‰p)
+congeries	NNS	congeries	:c(’PE•¡—¼ˆµ‚¢)
+caucus	NNS	caucus	:c(’P”Œ`‚Å•¡”ˆµ‚¢j
+biassed	VBN	bias	:c(=‰p)
+Offence	NN	offense	:c(‰p)
+ER	NNP	Er	:c(erbium‚Ì—ªŒê)
+Councillors	NNS	councilor	:c(‰p)
+Antichrist	NNP	Antichrist	:p
+scrutinised	VBN	scrutinize	:c(‰p)
+reflexions	NNS	reflection	:c(‰p)
+postillions	NNS	postilion	:c(‰p)
+pharisaical	JJ	pharisaical	:c(=pharisaic)
+pencilled	VBN	pencil	:c(‰p)
+patronised	VBD	patronize	:c(‰p)
+patronise	VB	patronize	:c(‰p)
+moulding	NN	molding	:c(‰p)
+manoeuvred	VBN	maneuver	:c(‰p)
+lifes	NNS	life	checked:p
+leveller	NN	leveler	:c(‰p)
+hieroglyphs	NNS	hieroglyph	:c(=hieroglyphic)
+harboured	VBD	harbor	:c(‰p)
+growed	VBN	grow	:c(”ñ•W€)
+greaves	NNS	greaves	:c(’PE•¡ˆµ‚¢)
+equalling	VBG	equaling	:c(‰p)
+drouth	NN	drouth	:c(=drought)
+cudgelling	VBG	cudgeling	:c(‰p)
+cosmos	NNS	cosmos	:c(’P•¡“¯Œ`)
+consistence	NN	consistence	:c(=consistency)
+clamoured	VBN	clamour	:c(‰p)
+britches	NNS	britches	:c(’P”Œ`‚È‚µj
+axe	VBP	axe	:c (=ax)
+armoured	JJ	armored	:c (‰pj
+Susie	NN	Susie	checked:p: NNP
+Recognising	VBG	recognize	:c(‰p)
+Rajpoot	NNP	Rajpoot	:c(=Rajput)
+Marvellous	JJ	marvelous	:c(‰p)
+Henceforward	RB	henceforward	:c(=henceforth)
+Greaves	NNS	greaves	:c(’PE•¡ˆµ‚¢)
+Darjiling	NNP	Darjiling	:c(=Darjeeling)
+Crusaders	NNPS	Crusaders	checked:p
+satirises	VBZ	satirize	:c(‰p)
+satirised	VBN	satirize	:c(‰p)
+remodelling	VBG	remodel	:c(‰p)
+remittances	NNS	remittances	checked:remittance
+reconnoitred	VBD	reconnoiter	:c(‰p)
+microcephalous	JJ	microcephalous	:c(=microcephalic)
+literati	NNS	literati	:c(•¡”ˆµ‚¢)
+libellous	JJ	libelous	:c(‰p)
+libellers	NNS	libeler	:c(‰p)
+katchina	NN	katchina	:c(=katcina)
+hyperbolical	JJ	hyperbolical	:c(=hyperbolic)
+headwaters	NNS	headwaters	:c(•¡”ˆµ‚¢)
+growed	VBD	grow	:c(”ñ•W€)
+forceps	NNS	forceps	:c(•¡”ˆµ‚¢)
+easier	RB	easy	checked:p: RBR?
+dependant	JJ	dependent	:c(‰p)
+colonised	VBN	colonize	:c(‰p)
+chiselled	VBD	chiseled	:c(‰p)
+centres	VBZ	centre	:c(‰p)
+cancelled	VBN	canceled	:c(‰p)
+burnings	NNS	burnings	checked by masayu-a
+brer	NN	brer	:c(=br'er)
+bonnie	NN	bonnie	:c(=bonny)
+authorise	VB	authorize	:c (‰pj
+Offences	NNS	offense	:c(‰p)
+Eulalie	NNP	Eulalie	:c(=Eulalia)
+CJ	NNP	CJ	:c masayu-a
+Bagdad	NNP	Bagdad	:c (=Baghdad)
+(	(	(	checked:p
+times	CC	times	checked:p
+scrutinised	VBD	scrutinize	:c(‰p)
+savoured	VBD	savor	:c(‰p)
+remodelled	VBD	remodel	:c(‰p)
+reconnoitred	VBN	reconnoiter	:c(‰p)
+recognising	NN	recognize	:c(‰p)
+realises	VBZ	realize	:c(‰p)
+ravelled	VBD	ravel	:c(‰p)
+premises	NN	premise	checked:p: NNS
+ploughboys	NNS	plowboy	:c(‰p)
+northwards	RB	northwards	:c(=northward)
+naturalised	VBN	naturalize	:c(‰p)
+mouldered	VBN	molder	:c(‰p)
+molluscs	NNS	mollusk	:c(‰p)
+misdemeanours	NNS	misdemeanor	:c(‰p)
+meinie	NN	meinie	:c(=meiny)
+malarious	JJ	malarious	:c(=malarial)
+largesse	NN	largesse	:c(=largess)
+k	NN	k	checked:p
+jewellers	NNS	jeweler	:c(‰p)
+harboured	VBN	harbor	:c(‰p)
+handmaiden	NN	handmaiden	:c(=handmaid)
+favouritism	NN	favoritism	:c(‰p)
+faquir	NN	faquir	:c(=faqir)
+familiarised	VBN	familiarize	:c(‰p)
+familiarise	VB	familiarize	:c(‰p)
+evangelise	VB	evangelize	:c(‰p)
+emphasised	VBD	emphasise	:c(‰p)
+dovecot	NN	dovecot	:c(=dovecote)
+dishevelled	VBD	dishevel	:c(‰p)
+contretemps	NNS	contretemps	:c(’P•¡“¯Œ`)
+conjuror	NN	conjuror	:c(=conjurer)
+clangour	NN	clangor	:c(‰p)
+c	SYM	c	checked:p
+baptise	VB	baptize	:c (‰pj
+bandoliers	NNS	bandolier	:c (=bandoleer)
+autobiographic	JJ	autobiographic	:c (=autobiographical)
+annoys	NNS	annoys	:c (ŒÃŒê@annoyance)
+Sa	NNP	samarium	:c(‰ÈŠw‹L†)
+Perthshire	NNP	Perthshire	:c(=Perth)
+Ides	NNS	Ides	:c(’PE•¡ˆµ‚¢)
+Del	NNP	Delaware	checked:p
+Crusader	NNP	Crusader	:c masayu-a
+Corinne	NNP	Corinne	:c(=corine)
+Clementina	NNP	Clementina	:c(=Clementine)
+scorbutical	JJ	scorbutical	:c(=scorbutic)
+savours	VBZ	savor	:c(‰p)
+saltpetre	NN	saltpetre	:c(=saltpeter)
+sabre	VB	saber	:c(‰p)
+repellant	NN	repellant	:c(=repellent)
+reorganisation	NN	reorganization	:c(‰p)
+pulverised	VBN	pulverize	:c(‰p)
+prised	VBN	prise	:c(=prize)
+practising	JJ	practice	:c(‰p)
+practiser	NN	practice	:c(‰p)
+popularise	VB	popularize	:c(‰p)
+pencilled	VBD	pencil	:c(‰p)
+parcelled	VBN	paracel	:c(‰p)
+paralysing	VBG	paralyze	:c(‰p)
+panelling	NN	paneling	:c(‰p)
+pampas	NNS	pampas	:ci•¡”E’P”ˆµ‚¢j
+outfits	NN	outfits	checked:p
+omelettes	NNS	omelette	:c(=omelet)
+neighbourhoods	NNS	neighborhood	:c(‰p)
+ne	NNP	neon.	:c(‰»Šw‹L†)
+multicoloured	JJ	multicolored	:c(‰p)
+modelling	VBG	model	:c(‰p)
+misdemeanour	NN	misdemeanor	:c(‰p)
+misbehaviour	NN	misbehavior	:c(‰p)
+microscopical	JJ	microscopical	:c(=microscopic)
+methodic	JJ	methodic	:c(=methodical)
+marvellousness	NN	marvelousness	:c(‰p)
+kalends	NNS	kalends	:c(’Ê—á•¡”ˆµ‚¢)
+impotency	NN	impotency	:c(=impotence)
+imperilled	VBN	imperil	:c(‰p)
+imminency	NN	imminency	:c(=imminence)
+hypochondriacal	JJ	hypochondriacal	:c(=hypochondriac)
+grovelled	VBN	grovel	:c(‰p)
+groats	NNS	groats	:c(’PE•¡ˆµ‚¢)
+greys	NNS	gray	:c(‰p)
+greybeard	NN	graybeard	:c(‰p)
+gloomier	RBR	gloomier	checked:p gloomily
+glacis	NNS	glacis	:c(’PE•¡“¯Œ`)
+forbad	VBD	forbid	:c(=forbade)
+evangelising	VBG	evangelaise	:c(‰p)
+ee	NN	eye	:c(ƒXƒRƒbƒg)
+doubtlessly	RB	doubtlessly	:c(=doubtless)
+discoloured	VBD	discolor	:c(‰p)
+devilry	NN	deviltry	:c(‰p)
+debonnaire	NN	debonnaire	:c(=debonair)
+cudgelled	VBD	cudgeled	:c(‰p)
+combatting	VBG	combat	:c(‰p)
+channelled	VBN	canneled	:c(‰p)
+chamois	NNS	chamois	:c(=’P•¡“¯Œ`j
+catchpolls	NNS	catchpoll	:c(=catchpole)
+breeks	NNS	breeks	:c(’P”Œ`‚È‚µj
+belaboured	VBN	belabore	:c(‰p)
+belaboured	VBD	belabore	:c(‰p)
+bandana	NN	bandana	:c (=bandanna)
+appetising	JJ	appetising	:c (–”‚Íappetizing)
+analyse	VBP	analyse	:c (å‚É‰p)i–”‚Íanalyzej
+anaesthetic	JJ	anaesthetic	:c (–”‚Íanesthetic)
+almanack	NN	almanack	:c  (–”‚Íalmanac)
+accoutred	VBN	accoutre	:c@
+X-rays	NNS	X-rays	checked:p
+SA	NNP	samarium	:c(‰ÈŠw‹L†)
+Proserpine	NNP	Proserpine	:c(=Proserpina)
+Neighbours	NNS	neighbor	:c(‰p)
+Locrians	NNPS	Locrian	:c(=Locris)
+Josias	NNP	Josias	:c(=Josiah)
+Gabrielle	NNP	Gabrielle	:c(=Gabriella)
+Dardanian	JJ	Dardanian	:c(=Dardan)
+Danites	NNPS	Danites	:c masayu-a
+Chaldaea	NNP	Chaldaea	:c(=Chaldea)
+Butlers	NNS	Butlers	:c checked by masayu-a
+Aser	NNP	Aser	:c (=Asher)
+Araby	NNP	Araby	:c (=Arabia)
+Apanage	NN	Apanage	:c (–”‚Íappanage)
+Annabelle	NNP	Annabelle	:c (–”‚ÍAnnabel)
+Alonzo	NNP	Alonzo	:c (–”‚Íalonsoj
+trimmed	RBR	trimmed	checked:p:
+Mines	NNP	Mines	checked:p
+Dollar	NNP	Dollar	checked:p
+remodeled	VBN	remodeled	checked:remodel
+r	SYM	r	checked:p
+deja	NN	deja	checked:p: FW deja vue
+CALL	JJ	CALL	checked:p
+wrestles	VBZ	wrestles	checked:wrestler
+that	VBP	that	checked:p
+spaghetti	NNS	spaghetti	checked:p: spaghetties
+highest	RB	highest	checked:p
+b	SYM	b	checked:p
+and/or	CC	and/or	checked:p
+`	``	`	checked:p
+Representatives	NNP	Representatives	checked:p
+Pao	NNP	Pao	checked:p
+Moreover	JJR	moreover	checked:p: RB?
+#	#	#	checked:p
+x	LS	x	checked:p
+withing	IN	withing	checked:p
+schoolchildren	NNS	schoolchild	checked:p
+relied	VB	rely	checked:p: VBD, VBN
+raises	NNS	raises	checked:p
+know-how	NN	know-how	checked:d: I sometimes encounter knowhow.
+irresistable	JJ	irresistable	checked:p irresistible
+freezers	NNS	freezers	checked:freezer
+emigres	NNS	emigre	checked:p
+Minneapolis	NNS	Minneapolis	checked:p: NNP
+Lincoln	NN	Lincoln	checked:p
+Cincinnati	NNS	Cincinnati	checked:p: NNP
